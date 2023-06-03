@@ -24,12 +24,6 @@ iNotebook offers the following features:
 - User authentication and authorization
 - Securely store user data
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-
 ## Installation
 
 To use the iNotebook application locally, follow these steps:
