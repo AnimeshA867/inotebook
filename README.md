@@ -5,7 +5,6 @@ Welcome to the iNotebook repository! iNotebook is a web-based note-taking applic
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
